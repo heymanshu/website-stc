@@ -49,7 +49,7 @@ body{
 .site-nav a:hover{background:rgba(255,255,255,0.06)}
 
 .hero{
-  background-image: url('/assets/images/stc-logo.jpg');
+  background-image: url('/assets/images/stc-logo2.jpg');
   background-size:cover;background-position:center;height:380px;display:flex;align-items:center;
   color:#fff;
 }
